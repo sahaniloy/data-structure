@@ -31,7 +31,6 @@ public class Factorial {
         for (int i = 1; i <= num; i++) {
             factorial *= i;
         }
-
         return factorial;
     }
 }
